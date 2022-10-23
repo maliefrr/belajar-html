@@ -1,0 +1,25 @@
+.judul {
+    text-align: center;
+}
+
+.luar {
+    width: 500px;
+}
+
+.logo-html {
+    text-align: center;
+}
+.logo-html img {
+    width: 150px;
+    height: 150px;
+}
+
+.ini {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* 
+    element
+    class
+    id
+*/
